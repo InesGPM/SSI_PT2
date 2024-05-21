@@ -1,6 +1,8 @@
 # Segurança de Sistemas Informáticos
 ## Projeto Concordia
 
+Realizado por: Inês Marques (a100606)
+
 ## Configurações Visudo
 
 Criar o user `deamon` (responsavel por correr o deamon.c)
